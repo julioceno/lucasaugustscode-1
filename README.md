@@ -3,9 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucasaugustscode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasaugustscode@gmail.com)](mailto:lucasaugustscode@gmail.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> How are you friend ?
-I'm Lucas Augusto.
+**I am very well :)**
 <br>
 <br>
-“People don't care what someone says in the movies - <br> or even what you say. They care about what you create. ”
+“People don't care what someone says in the movies - <br> or even what you say. They care about what you create.”
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lucasaugustscode&show_icons=true" alt="lucasaugustscode" /> </p>
