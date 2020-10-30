@@ -6,4 +6,4 @@
 I'm Lucas Augusto.
 I'm a web developer.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucasaugustscode&show_icons=true" alt="lucasaugustscode" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lucasaugustscode&show_icons=true" alt="lucasaugustscode" /> </p>
