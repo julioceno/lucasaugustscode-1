@@ -16,5 +16,5 @@ My learning is based on creating projects and contributing to the open source co
 - Create my first application with [React Native](https://reactnative.dev/)
 - Apply for a job.
 
-### ☕️&nbsp; Wanna chat? 
+### ☕️&nbsp; Wanna chat ? 
 👉🏼&nbsp; @ me on [Twitter](https://twitter.com/lucasaugusts_)
