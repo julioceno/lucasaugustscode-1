@@ -1,4 +1,4 @@
-👨‍🚀&nbsp;Hi ! My name is Lucas, I'm 18 years old and I dream of being a fullstack developer.
+👨🏻‍🚀&nbsp;Hi ! My name is Lucas, I'm 18 years old and I dream of being a fullstack developer.
 
 ### 💡&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and contributing to the open source community. 
