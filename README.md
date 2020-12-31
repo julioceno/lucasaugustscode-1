@@ -1,20 +1,13 @@
-👨🏻‍🚀&nbsp;Hi ! My name is Lucas, I'm 18 years old and I dream of being a fullstack developer.
+# Lucas Augusto
 
-### 💡&nbsp; Seeking knowledge all the time  
-My learning is based on creating projects and contributing to the open source community. 
+Programmer | Passionate about technology | Enthusiastic about learning new things.
 
-### 🗒&nbsp; My experiences currently 
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> 
-</p> 
+[![Twitter Badge](https://img.shields.io/badge/-@lucastweetou-7B68EE?style=flat-square&labelColor=7B68EE&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/lucastweetou) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Augusto-7B68EE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/lucas-augusto-a428631b8/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucasaugustsdeveloper@gmail.com-7B68EE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:lucasaugustsdeveloper@gmail.com)
 
-### 🔭&nbsp; Goals for 2021 
-- Start in the world of [React](https://reactjs.org/) and [React Native](https://reactnative.dev/)
-- Create my first application with [React Native](https://reactnative.dev/)
-- Apply for a job.
+<img src="iphoneApps.gif">
 
-### ☕️&nbsp; Wanna chat ? 
-👉🏼&nbsp; @ me on [Twitter](https://twitter.com/lucasaugusts_)
+*It makes no sense to look back and think: I should have done this or that, I should have been there. Does not matter. Let's invent tomorrow and stop worrying about the past.*
+
+*~ Steve Jobs*
