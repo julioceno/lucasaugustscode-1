@@ -1,4 +1,4 @@
-# Lucas Augusto Barreto Linhares
+# About me...
 
 Programmer | Passionate about technology | Enthusiastic about learning new things.
 
