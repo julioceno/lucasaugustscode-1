@@ -8,4 +8,4 @@ Programmer | Passionate about technology | Enthusiastic about learning new thing
 
 *It makes no sense to look back and think: I should have done this or that, I should have been there. Does not matter. Let's invent tomorrow and stop worrying about the past.*
 
-*~ Steve Jobs*
+~ Steve Jobs
