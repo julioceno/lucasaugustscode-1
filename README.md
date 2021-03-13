@@ -13,5 +13,5 @@ Programmer | Passionate about technology | Enthusiastic about learning new thing
 *Nothing in the world can overcome persistence. Talent does not surpass. There is nothing more common than talented failures.
 Genius does not overcome. The unknown genius is practically a cliché. Education does not surpass. The world is full of educated fools. Persistence and determination are very powerful.
 Show that you don't need to be defeated by anything. That has inner peace. Incredible health and strong, steady energy. If you try to achieve these things every day, the results will be obvious to you.
-As much as it may seem like a fantasy, it is up to you to create your own future. The greatest discovery of my generation is that human beings can change their lives by changing their way of thinking. ?? As Emerson stated: a man is what he thinks all day long”
+As much as it may seem like a fantasy, it is up to you to create your own future. The greatest discovery of my generation is that human beings can change their lives by changing their way of thinking. ?? As Emerson stated: a man is what he thinks all day long”*
 
